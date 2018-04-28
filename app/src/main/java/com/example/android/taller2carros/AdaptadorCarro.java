@@ -34,7 +34,7 @@ public class AdaptadorCarro extends RecyclerView.Adapter<AdaptadorCarro.CarroVie
         holder.placa.setText(p.getPlaca());
         holder.marca.setText(res.getStringArray(R.array.marca_spinner)[p.getMarca()]);
         holder.modelo.setText(res.getStringArray(R.array.modelo_spinner)[p.getModelo()]);
-        holder.color.setText(res.getStringArray(R.array.modelo_spinner)[p.getModelo()]);
+        holder.color.setText(res.getStringArray(R.array.color_spinner)[p.getColor()]);
         holder.precio.setText(p.getPrecio());
     }
 

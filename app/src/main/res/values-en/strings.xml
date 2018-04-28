@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller2Carros</string>
+    <string name="registrar">Registrar</string>
+    <string name="registrarCarros">Register Cars</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="color">Colour</string>
+    <string name="amarillo">Yellow</string>
+    <string name="rojo">Red</string>
+    <string name="azul">Bluc</string>
+    <string name="precio">Price</string>
+    <string name="placa">Licence Plate</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="mensaje_guardado">Car was Saved Succesfully</string>
+    <string name="error1">The first 3 Chars must be Letter</string>
+    <string name="error2">The last 3 Chars must be Numbers</string>
+    <string name="error3">The Field cant be empty</string>
+    <string name="error4">The Licence Plate Must have 6 chars</string>
+</resources>

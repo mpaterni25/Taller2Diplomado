@@ -20,11 +20,10 @@
     <string name="registrar">Registrar</string>
     <string name="listar">Listar</string>
     <string name="reportar">Informes</string>
-    <string name="errorTitulo">Notificación</string>
     <string name="mensaje_guardado">Carro guardado correctamente</string>
     <string name="error1">Los 3 primeros caracteres de la placa deben ser letras</string>
     <string name="error2">Los 3 últimos caracteres de la placa deben ser números</string>
-    <string name="error3">El campo placa no puede estar vacío</string>
+    <string name="error3">El campo no puede estar vacío</string>
     <string name="error4">El campo placa debe contener 6 caracteres</string>
     <string-array name="lstOpciones">
         <item>@string/registrar</item>
